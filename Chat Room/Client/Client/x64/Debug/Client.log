@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Chat Room\Client\main.cpp(27,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Chat Room\Client\main.cpp(34,18): warning C4129: 'q': unrecognized character escape sequence
+  Client.vcxproj -> D:\Chat Room\Client\x64\Debug\Client.exe

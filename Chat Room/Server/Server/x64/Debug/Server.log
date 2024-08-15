@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Chat Room\Server\main.cpp(36,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Chat Room\Server\main.cpp(71,3): warning C4551: function call missing argument list
+  Server.vcxproj -> D:\Chat Room\Server\x64\Debug\Server.exe
